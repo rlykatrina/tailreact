@@ -1,9 +1,9 @@
 {
-  "name": "web_react_tailwind",
+  "name": "tailreact",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://rlykatrina.github.io/web_react_tailwind/",
+  "homepage": "https://github.com/rlykatrina/tailreact",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
